@@ -13,3 +13,9 @@ Miranda Christine Lutz, MSc1,2, Rianne Kok, PhD1, Ilse Verveer, MSc1, Marcelo Ma
 2 Department of Clinical, Neuro- and Developmental Psychology, Vrije Universiteit Amsterdam, Van der Boechorststraat 1, 1081 HV Amsterdam, the Netherlands.
 
 Data is extracted from manuscripts and additional data is provided by authors. 
+
+Enclosed in this project are
+- data and code for ERN meta-analysis as in manuscript
+- data and code for Pe meta-anlayisas in manuscript
+- additional data and code for multilevel ERN meta anlaysis, not enclosed in manuscript
+
