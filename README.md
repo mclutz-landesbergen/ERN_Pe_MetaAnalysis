@@ -20,3 +20,5 @@ Enclosed in this project are
 - additional data and code for multilevel ERN meta anlaysis, not enclosed in manuscript
 - revised data and code for ERN meta-analysis as in manuscript
 - revised data and code for Pe meta-anlayisas in manuscript
+
+R studio is required, minimal version is 3.5.3
